@@ -3,7 +3,6 @@
 ## Student Information
 
 - **Student Name:** Umesh Sah
-- **Student ID:** Add your Student ID
 - **Module Name:** Web Technologies and Platforms
 - **Assignment Title:** Designing a Navigation Bar and Card Components Using HTML & CSS
 
@@ -14,7 +13,7 @@ This project is a basic HTML and CSS webpage containing a navigation bar, a hero
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 
 ## Project Features
 
@@ -76,10 +75,6 @@ Add your required browser screenshots to the `screenshots` folder using these na
 **Challenge 2:** The images needed to fit consistently inside the cards.
 
 **Solution:** I used fixed image width and height values and applied border radius to keep the card design consistent.
-
-## AI Usage
-
-I used ChatGPT as a learning assistant to understand the assignment requirements, HTML structure and CSS concepts. I reviewed the generated suggestions, understood the concepts, and organized the final HTML and CSS implementation myself. I am responsible for understanding and explaining the submitted code.
 
 ## Code Organization
 
